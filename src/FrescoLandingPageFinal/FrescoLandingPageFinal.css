@@ -6,11 +6,14 @@
   background: #ffffff;
   height: 4328px;
   position: relative;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: visible;
+  width: 100%;
   max-width: 100%;
 }
 .fresco-landing-page-final ._4th-section-background-gradient {
-  width: 1440px;
+  width: 100%;
+  max-width: 1440px;
   height: 765px;
   position: absolute;
   left: 0px;
@@ -31,7 +34,8 @@
   top: 0%;
 }
 .fresco-landing-page-final ._2nd-section-background {
-  width: 1440px;
+  width: 100%;
+  max-width: 1440px;
   height: 536px;
   position: absolute;
   left: 0px;
@@ -49,7 +53,8 @@
   box-shadow: 0px -10px 40px 10px rgba(0, 0, 0, 0.4);
 }
 .fresco-landing-page-final ._3rd-section-tob-backround {
-  width: 1440px;
+  width: 100%;
+  max-width: 1440px;
   height: 300px;
   position: absolute;
   left: 0px;
@@ -69,7 +74,8 @@
   transform: rotate(-180deg) scale(1, 1);
 }
 .fresco-landing-page-final .footer-section {
-  width: 1440px;
+  width: 100%;
+  max-width: 1440px;
   height: 326px;
   position: absolute;
   left: 0px;
@@ -775,7 +781,8 @@
   overflow: visible;
 }
 .fresco-landing-page-final .background-hero-image {
-  width: 1440px;
+  width: 100%;
+  max-width: 1440px;
   height: 728px;
   position: absolute;
   left: 0px;
@@ -793,7 +800,8 @@
   object-fit: cover;
 }
 .fresco-landing-page-final .background-image-overlay {
-  width: 1440px;
+  width: 100%;
+  max-width: 1440px;
   height: 728px;
   position: absolute;
   left: 0px;
@@ -810,7 +818,8 @@
   top: 0%;
 }
 .fresco-landing-page-final .gradient-overlay {
-  width: 1069px;
+  width: 100%;
+  max-width: 1069px;
   height: 728px;
   position: absolute;
   left: 0px;
@@ -849,7 +858,8 @@
   object-fit: cover;
 }
 .fresco-landing-page-final .top-section-menu-logo {
-  width: 1440px;
+  width: 100%;
+  max-width: 1440px;
   height: 100px;
   position: absolute;
   left: 0px;
@@ -1248,24 +1258,33 @@
   .fresco-landing-page-final {
     height: auto;
     min-height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    position: relative;
   }
 
   /* Hero Section */
   .fresco-landing-page-final .top-section-menu-logo {
+    width: 100vw;
+    height: 70px;
+    left: 0;
+    right: 0;
+  }
+
+  .fresco-landing-page-final .rectangle-4 {
     width: 100%;
-    height: 80px;
   }
 
   .fresco-landing-page-final .fresko-logo-transparent-header {
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
     left: 10px;
-    top: -35px;
+    top: -25px;
   }
 
   .fresco-landing-page-final ._5th-section-cta-instance {
-    width: 180px !important;
-    height: 45px !important;
+    width: 150px !important;
+    height: 40px !important;
     right: 10px !important;
     left: auto !important;
     top: 50% !important;
@@ -1273,99 +1292,120 @@
   }
 
   .fresco-landing-page-final .fiveth-section-cta .div {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .fresco-landing-page-final .background-hero-image {
+    width: 100vw;
+    height: 350px;
+    top: 70px;
+    left: 0;
+  }
+
+  .fresco-landing-page-final .gemini-generated-image-uajt-15-uajt-15-uajt-1 {
     width: 100%;
-    height: 400px;
-    top: 80px;
+    height: 100%;
+    object-fit: cover;
   }
 
   .fresco-landing-page-final .background-image-overlay {
-    width: 100%;
-    height: 400px;
-    top: 80px;
+    width: 100vw;
+    height: 350px;
+    top: 70px;
+    left: 0;
   }
 
   .fresco-landing-page-final .gradient-overlay {
-    width: 100%;
-    height: 400px;
-    top: 80px;
+    width: 100vw;
+    height: 350px;
+    top: 70px;
+    left: 0;
   }
 
   .fresco-landing-page-final .hero-image {
-    width: 100%;
-    height: auto;
-    max-height: 400px;
-    left: 0;
-    top: 80px;
-    object-fit: contain;
+    display: none;
   }
 
   .fresco-landing-page-final .header {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
-    top: 120px;
+    left: 20px;
+    right: 20px;
+    top: 100px;
+    z-index: 10;
   }
 
   .fresco-landing-page-final .div27 {
-    font-size: 36px;
+    font-size: 32px;
     line-height: 1.2;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final .subheader {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
-    top: 200px;
+    left: 20px;
+    right: 20px;
+    top: 160px;
+    z-index: 10;
   }
 
   .fresco-landing-page-final .fresco3 {
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.4;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final .cta-1-hero-section {
-    width: 90%;
+    width: calc(100% - 40px);
+    max-width: 400px;
     height: 55px;
-    left: 5%;
-    top: 350px;
+    left: 20px;
+    right: 20px;
+    top: 280px;
+    z-index: 10;
   }
 
   .fresco-landing-page-final .div28 {
-    font-size: 18px;
+    font-size: 16px;
+    white-space: normal;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final ._18 {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
-    top: 420px;
+    left: 20px;
+    right: 20px;
+    top: 360px;
+    z-index: 10;
   }
 
   .fresco-landing-page-final ._182 {
-    font-size: 24px;
+    font-size: 22px;
+    word-wrap: break-word;
   }
 
   /* Partners Section */
   .fresco-landing-page-final ._2nd-section-background {
-    width: 100%;
+    width: 100vw;
     height: auto;
-    min-height: 800px;
-    top: 500px;
+    min-height: 750px;
+    top: 450px;
+    left: 0;
   }
 
   .fresco-landing-page-final .div24 {
-    width: 90%;
-    left: 5%;
-    top: 520px;
+    width: calc(100% - 40px);
+    left: 20px;
+    right: 20px;
+    top: 470px;
   }
 
   .fresco-landing-page-final .div25 {
     font-size: 18px;
     text-align: center;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final .partner-dhl,
@@ -1375,168 +1415,183 @@
   .fresco-landing-page-final .partner-fantastiko,
   .fresco-landing-page-final .partner-athletic,
   .fresco-landing-page-final .partner-playground {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
   }
 
   .fresco-landing-page-final .partner-dhl {
-    left: 10px;
-    top: 570px;
+    left: calc(8.33% - 50px);
+    top: 520px;
   }
 
   .fresco-landing-page-final .partner-sofiamed {
     left: 50%;
     transform: translateX(-50%);
-    top: 570px;
+    top: 520px;
   }
 
   .fresco-landing-page-final .partner-playground {
-    right: 10px;
+    right: calc(8.33% - 50px);
     left: auto;
-    top: 570px;
+    top: 520px;
   }
 
   .fresco-landing-page-final .partner-buss-cent-vitosha {
-    left: 10px;
-    top: 740px;
+    left: calc(8.33% - 50px);
+    top: 640px;
   }
 
   .fresco-landing-page-final .partner-mondelez {
     left: 50%;
     transform: translateX(-50%);
-    top: 740px;
+    top: 640px;
   }
 
   .fresco-landing-page-final .partner-fantastiko {
-    right: 10px;
+    right: calc(8.33% - 50px);
     left: auto;
-    top: 740px;
+    top: 640px;
   }
 
   .fresco-landing-page-final .partner-athletic {
     left: 50%;
     transform: translateX(-50%);
-    top: 910px;
+    top: 760px;
   }
 
   /* Services Section */
   .fresco-landing-page-final ._3rd-section-tob-backround {
-    width: 100%;
+    width: 100vw;
     height: auto;
     min-height: 650px;
-    top: 1330px;
+    top: 1230px;
+    left: 0;
   }
 
   .fresco-landing-page-final .div,
   .fresco-landing-page-final .div23 {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
+    left: 20px;
+    right: 20px;
   }
 
   .fresco-landing-page-final .div {
-    top: 1350px;
+    top: 1250px;
   }
 
   .fresco-landing-page-final .div23 {
-    top: 1620px;
+    top: 1530px;
   }
 
   .fresco-landing-page-final .div2 {
-    font-size: 24px;
+    font-size: 22px;
+    text-align: center;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final .main-service-icon-deep-clean {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     left: 50%;
     transform: translateX(-50%);
-    top: 1430px;
+    top: 1330px;
   }
 
   .fresco-landing-page-final .main-service-icon-subscribtion-clean {
-    width: 250px;
-    height: 250px;
+    width: 220px;
+    height: 220px;
     left: 50%;
     transform: translateX(-50%);
-    top: 1680px;
+    top: 1600px;
   }
 
   .fresco-landing-page-final ._3rd-section-button-1,
   .fresco-landing-page-final ._3rd-section-button-2 {
-    width: 90%;
+    width: calc(100% - 40px);
     height: 200px;
-    left: 5%;
+    left: 20px;
+    right: 20px;
   }
 
   .fresco-landing-page-final ._3rd-section-button-1 {
-    top: 1430px;
+    top: 1330px;
   }
 
   .fresco-landing-page-final ._3rd-section-button-2 {
-    top: 1680px;
+    top: 1600px;
   }
 
   .fresco-landing-page-final ._3rd-section-cta {
-    width: 90%;
+    width: calc(100% - 40px);
+    max-width: 400px;
     height: 55px;
-    left: 5%;
-    top: 1940px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 1850px;
   }
 
   .fresco-landing-page-final .div26 {
-    font-size: 18px;
+    font-size: 16px;
+    text-align: center;
+    word-wrap: break-word;
   }
 
   /* 4th Section - Why Choose FRESCO */
   .fresco-landing-page-final ._4th-section-background-gradient {
-    width: 100%;
+    width: 100vw;
     height: auto;
-    min-height: 900px;
-    top: 2050px;
+    min-height: 950px;
+    top: 1950px;
+    left: 0;
   }
 
   .fresco-landing-page-final ._4th-section-header {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
-    top: 2080px;
+    left: 20px;
+    right: 20px;
+    top: 1980px;
   }
 
   .fresco-landing-page-final .fresco {
-    font-size: 26px;
+    font-size: 24px;
     text-align: center;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final .div3,
   .fresco-landing-page-final .div12,
   .fresco-landing-page-final .div11 {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
+    left: 20px;
+    right: 20px;
   }
 
   .fresco-landing-page-final .div3 {
-    top: 2140px;
+    top: 2040px;
   }
 
   .fresco-landing-page-final .div12 {
-    top: 2380px;
+    top: 2290px;
   }
 
   .fresco-landing-page-final .div11 {
-    top: 2620px;
+    top: 2540px;
   }
 
   .fresco-landing-page-final .div4 {
     font-size: 18px;
+    text-align: center;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final ._4th-section-image-bg-1,
   .fresco-landing-page-final ._4th-section-image-bg-2,
   .fresco-landing-page-final ._4th-section-image-bg-3 {
-    width: 220px;
-    height: 220px;
+    width: 200px;
+    height: 200px;
     left: 50%;
     transform: translateX(-50%);
   }
@@ -1544,153 +1599,167 @@
   .fresco-landing-page-final ._4th-section-img-1,
   .fresco-landing-page-final ._4th-section-img-2,
   .fresco-landing-page-final ._4th-section-img-3 {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     left: 50%;
     transform: translateX(-50%);
   }
 
   .fresco-landing-page-final ._4th-section-image-bg-1,
   .fresco-landing-page-final ._4th-section-img-1 {
-    top: 2200px;
+    top: 2100px;
   }
 
   .fresco-landing-page-final ._4th-section-image-bg-2,
   .fresco-landing-page-final ._4th-section-img-2 {
-    top: 2440px;
+    top: 2350px;
   }
 
   .fresco-landing-page-final ._4th-section-image-bg-3,
   .fresco-landing-page-final ._4th-section-img-3 {
-    top: 2680px;
+    top: 2600px;
   }
 
   .fresco-landing-page-final .div5,
   .fresco-landing-page-final .div7,
   .fresco-landing-page-final .div8 {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
+    left: 20px;
+    right: 20px;
   }
 
   .fresco-landing-page-final .div5 {
-    top: 2430px;
+    top: 2310px;
   }
 
   .fresco-landing-page-final .div7 {
-    top: 2670px;
+    top: 2560px;
   }
 
   .fresco-landing-page-final .div8 {
-    top: 2910px;
+    top: 2810px;
   }
 
   .fresco-landing-page-final .div6 {
     font-size: 14px;
+    text-align: center;
+    word-wrap: break-word;
   }
 
   /* 5th Section - Process */
   .fresco-landing-page-final ._5th-section-header {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
-    top: 3050px;
+    left: 20px;
+    right: 20px;
+    top: 2950px;
   }
 
   .fresco-landing-page-final .fresco2 {
-    font-size: 26px;
+    font-size: 24px;
     text-align: center;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final ._5th-section-icon-bg-1,
   .fresco-landing-page-final ._5th-section-icon-bg-2,
   .fresco-landing-page-final ._5th-section-icon-bg-3 {
-    width: 120px;
-    height: 120px;
-    left: 5%;
+    width: 100px;
+    height: 100px;
+    left: 20px;
   }
 
   .fresco-landing-page-final ._5th-section-phone-icon,
   .fresco-landing-page-final ._5th-section-house-icon,
   .fresco-landing-page-final ._5th-section-document-icon {
-    width: 90px;
-    height: 85px;
-    left: 20px;
+    width: 70px;
+    height: 65px;
+    left: 35px;
   }
 
   .fresco-landing-page-final ._5th-section-icon-bg-1 {
-    top: 3120px;
+    top: 3020px;
   }
 
   .fresco-landing-page-final ._5th-section-phone-icon {
-    top: 3137px;
+    top: 3037px;
   }
 
   .fresco-landing-page-final .div13 {
-    width: 70%;
+    width: calc(100% - 160px);
     height: auto;
     left: 135px;
-    top: 3135px;
+    right: 25px;
+    top: 3030px;
   }
 
   .fresco-landing-page-final .div14 {
-    font-size: 20px;
+    font-size: 18px;
     text-align: left;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final .div9 {
-    width: 90%;
+    width: calc(100% - 160px);
     height: auto;
-    left: 5%;
-    top: 3180px;
+    left: 135px;
+    right: 25px;
+    top: 3070px;
   }
 
   .fresco-landing-page-final .div10 {
-    font-size: 14px;
+    font-size: 13px;
+    text-align: left;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final ._5th-section-icon-bg-2 {
-    top: 3290px;
+    top: 3180px;
   }
 
   .fresco-landing-page-final ._5th-section-house-icon {
-    top: 3307px;
+    top: 3197px;
   }
 
   .fresco-landing-page-final .div16 {
-    width: 70%;
+    width: calc(100% - 160px);
     height: auto;
     left: 135px;
-    top: 3305px;
+    right: 25px;
+    top: 3190px;
   }
 
   .fresco-landing-page-final .div15 {
-    width: 90%;
+    width: calc(100% - 160px);
     height: auto;
-    left: 5%;
-    top: 3350px;
+    left: 135px;
+    right: 25px;
+    top: 3230px;
   }
 
   .fresco-landing-page-final ._5th-section-icon-bg-3 {
-    top: 3460px;
+    top: 3340px;
   }
 
   .fresco-landing-page-final ._5th-section-document-icon {
-    top: 3477px;
+    top: 3357px;
   }
 
   .fresco-landing-page-final .div18 {
-    width: 70%;
+    width: calc(100% - 160px);
     height: auto;
     left: 135px;
-    top: 3475px;
+    right: 25px;
+    top: 3350px;
   }
 
   .fresco-landing-page-final .div17 {
-    width: 90%;
+    width: calc(100% - 160px);
     height: auto;
-    left: 5%;
-    top: 3520px;
+    left: 135px;
+    right: 25px;
+    top: 3390px;
   }
 
   .fresco-landing-page-final .arrow-12,
@@ -1699,104 +1768,119 @@
   }
 
   .fresco-landing-page-final ._5th-section-cta {
-    width: 90%;
+    width: calc(100% - 40px);
+    max-width: 400px;
     height: 55px;
-    left: 5%;
-    top: 3630px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 3500px;
   }
 
   .fresco-landing-page-final .div29 {
-    font-size: 18px;
+    font-size: 16px;
+    text-align: center;
+    word-wrap: break-word;
   }
 
   /* Footer */
   .fresco-landing-page-final .footer-section {
-    width: 100%;
+    width: 100vw;
     height: auto;
-    min-height: 400px;
-    top: 3730px;
+    min-height: 380px;
+    top: 3600px;
+    left: 0;
   }
 
   .fresco-landing-page-final .fresko-logo-transparent-footer {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     left: 50%;
     transform: translateX(-50%);
-    top: 3760px;
+    top: 3630px;
   }
 
   .fresco-landing-page-final .div19,
   .fresco-landing-page-final .div21,
   .fresco-landing-page-final .div22 {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
+    left: 20px;
+    right: 20px;
   }
 
   .fresco-landing-page-final .div19 {
-    top: 3880px;
+    top: 3730px;
   }
 
   .fresco-landing-page-final .div21 {
-    top: 3990px;
+    top: 3820px;
   }
 
   .fresco-landing-page-final .div22 {
-    top: 4100px;
+    top: 3910px;
   }
 
   .fresco-landing-page-final .div20 {
     font-size: 16px;
+    text-align: center;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final ._2-1-1 {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
-    top: 3920px;
+    left: 20px;
+    right: 20px;
+    top: 3760px;
   }
 
   .fresco-landing-page-final ._2-1-12 {
-    font-size: 14px;
+    font-size: 13px;
     text-align: center;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final ._08-00-20-00 {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
-    top: 4030px;
+    left: 20px;
+    right: 20px;
+    top: 3850px;
   }
 
   .fresco-landing-page-final ._08-00-20-002 {
-    font-size: 14px;
+    font-size: 13px;
+    text-align: center;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final ._359-896-806-283-office-fresco-bg-com {
-    width: 90%;
+    width: calc(100% - 40px);
     height: auto;
-    left: 5%;
-    top: 4140px;
+    left: 20px;
+    right: 20px;
+    top: 3940px;
   }
 
   .fresco-landing-page-final ._359-896-806-283-office-fresco-bg-com2 {
-    font-size: 14px;
+    font-size: 13px;
     text-align: center;
+    word-wrap: break-word;
   }
 
   .fresco-landing-page-final .fresco-social-icon-facebook,
   .fresco-landing-page-final .fresco-social-icon-instagram {
-    width: 50px;
-    height: 50px;
-    top: 4240px;
+    width: 45px;
+    height: 45px;
+    top: 4040px;
   }
 
   .fresco-landing-page-final .fresco-social-icon-facebook {
-    left: 35%;
+    left: calc(50% - 55px);
   }
 
   .fresco-landing-page-final .fresco-social-icon-instagram {
-    left: 55%;
+    left: calc(50% + 10px);
   }
 }
 
