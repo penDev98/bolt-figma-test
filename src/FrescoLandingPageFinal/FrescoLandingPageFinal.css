@@ -8,14 +8,14 @@
   position: relative;
   overflow: hidden;
 }
-._4th-section-background-gradient {
+.fresco-landing-page-final ._4th-section-background-gradient {
   width: 1440px;
   height: 765px;
   position: absolute;
   left: 0px;
   top: 2091px;
 }
-.rectangle-29 {
+.fresco-landing-page-final .rectangle-29 {
   background: linear-gradient(
     180deg,
     rgba(24, 81, 57, 0.6) 9.13461521267891%,
@@ -29,14 +29,14 @@
   bottom: 0%;
   top: 0%;
 }
-._2nd-section-background {
+.fresco-landing-page-final ._2nd-section-background {
   width: 1440px;
   height: 536px;
   position: absolute;
   left: 0px;
   top: 825px;
 }
-._2nd-section-background2 {
+.fresco-landing-page-final ._2nd-section-background2 {
   background: #ffffff;
   width: 100%;
   height: 100%;
@@ -47,14 +47,14 @@
   top: 0%;
   box-shadow: 0px -10px 40px 10px rgba(0, 0, 0, 0.4);
 }
-._3rd-section-tob-backround {
+.fresco-landing-page-final ._3rd-section-tob-backround {
   width: 1440px;
   height: 300px;
   position: absolute;
   left: 0px;
   top: 1361px;
 }
-.rectangle-27 {
+.fresco-landing-page-final .rectangle-27 {
   background: #91cea2;
   width: 100%;
   height: 100%;
@@ -67,14 +67,14 @@
   transform-origin: 0 0;
   transform: rotate(-180deg) scale(1, 1);
 }
-.footer-section {
+.fresco-landing-page-final .footer-section {
   width: 1440px;
   height: 326px;
   position: absolute;
   left: 0px;
   top: 4002px;
 }
-.footer-section2 {
+.fresco-landing-page-final .footer-section2 {
   background: #072422;
   width: 100%;
   height: 100%;
@@ -84,14 +84,14 @@
   bottom: 0%;
   top: 0%;
 }
-._3rd-section-button-1 {
+.fresco-landing-page-final ._3rd-section-button-1 {
   width: 500px;
   height: 280px;
   position: absolute;
   left: 163px;
   top: 1478px;
 }
-.rectangle-25 {
+.fresco-landing-page-final .rectangle-25 {
   background: #072422;
   width: 100%;
   height: 100%;
@@ -102,14 +102,14 @@
   top: 0%;
   box-shadow: 0px 10px 40px 10px rgba(0, 0, 0, 0.45);
 }
-._3rd-section-button-2 {
+.fresco-landing-page-final ._3rd-section-button-2 {
   width: 500px;
   height: 280px;
   position: absolute;
   left: 755px;
   top: 1479px;
 }
-.rectangle-26 {
+.fresco-landing-page-final .rectangle-26 {
   background: #072422;
   width: 100%;
   height: 100%;
@@ -120,14 +120,14 @@
   top: 0%;
   box-shadow: 0px 10px 40px 10px rgba(0, 0, 0, 0.45);
 }
-._4th-section-image-bg-3 {
+.fresco-landing-page-final ._4th-section-image-bg-3 {
   width: 266px;
   height: 266px;
   position: absolute;
   left: 170px;
   top: 2365px;
 }
-.rectangle-31 {
+.fresco-landing-page-final .rectangle-31 {
   background: #072422;
   width: 100%;
   height: 100%;
@@ -138,14 +138,14 @@
   top: 0%;
   box-shadow: 0px 10px 40px 10px rgba(0, 0, 0, 0.45);
 }
-._4th-section-image-bg-2 {
+.fresco-landing-page-final ._4th-section-image-bg-2 {
   width: 267px;
   height: 266px;
   position: absolute;
   left: 593px;
   top: 2365px;
 }
-._4th-section-image-bg-22 {
+.fresco-landing-page-final ._4th-section-image-bg-22 {
   background: #072422;
   width: 100%;
   height: 100%;
@@ -156,14 +156,14 @@
   top: 0%;
   box-shadow: 0px 10px 40px 10px rgba(0, 0, 0, 0.45);
 }
-._4th-section-image-bg-1 {
+.fresco-landing-page-final ._4th-section-image-bg-1 {
   width: 266px;
   height: 266px;
   position: absolute;
   left: 1019px;
   top: 2365px;
 }
-._4th-section-image-bg-12 {
+.fresco-landing-page-final ._4th-section-image-bg-12 {
   background: #072422;
   width: 100%;
   height: 100%;
@@ -174,7 +174,7 @@
   top: 0%;
   box-shadow: 0px 10px 40px 10px rgba(0, 0, 0, 0.45);
 }
-.fresko-logo-transparent-footer {
+.fresco-landing-page-final .fresko-logo-transparent-footer {
   width: 148px;
   height: 148px;
   position: absolute;
@@ -182,7 +182,7 @@
   top: 4187px;
   aspect-ratio: 1;
 }
-.fresko-logo-transparent-2 {
+.fresco-landing-page-final .fresko-logo-transparent-2 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -192,14 +192,14 @@
   top: 0%;
   object-fit: cover;
 }
-._4th-section-header {
+.fresco-landing-page-final ._4th-section-header {
   width: 558px;
   height: 44px;
   position: absolute;
   left: 439px;
   top: 2158px;
 }
-.fresco {
+.fresco-landing-page-final .fresco {
   color: #f6fcf2;
   text-align: left;
   font-family: "Montserrat-Bold", sans-serif;
@@ -214,14 +214,14 @@
   top: 0%;
   height: 100%;
 }
-._5th-section-header {
+.fresco-landing-page-final ._5th-section-header {
   width: 383px;
   height: 44px;
   position: absolute;
   left: 521px;
   top: 2891px;
 }
-.fresco2 {
+.fresco-landing-page-final .fresco2 {
   color: #072422;
   text-align: left;
   font-family: "Montserrat-Bold", sans-serif;
@@ -236,14 +236,14 @@
   top: 0%;
   height: 100%;
 }
-.div {
+.fresco-landing-page-final .div {
   width: 391px;
   height: 78px;
   position: absolute;
   left: 227px;
   top: 1806px;
 }
-.div2 {
+.fresco-landing-page-final .div2 {
   color: #072422;
   text-align: center;
   font-family: "Montserrat-SemiBold", sans-serif;
@@ -258,14 +258,14 @@
   top: 0%;
   height: 100%;
 }
-.div3 {
+.fresco-landing-page-final .div3 {
   width: 391px;
   height: 54px;
   position: absolute;
   left: 100px;
   top: 2256px;
 }
-.div4 {
+.fresco-landing-page-final .div4 {
   color: #072422;
   text-align: center;
   font-family: "Montserrat-SemiBold", sans-serif;
@@ -280,14 +280,14 @@
   top: 0%;
   height: 100%;
 }
-.div5 {
+.fresco-landing-page-final .div5 {
   width: 266px;
   height: 80px;
   position: absolute;
   left: 163px;
   top: 2683px;
 }
-.div6 {
+.fresco-landing-page-final .div6 {
   color: #072422;
   text-align: center;
   font-family: "Montserrat-Regular", sans-serif;
@@ -302,28 +302,28 @@
   top: 0%;
   height: 100%;
 }
-.div7 {
+.fresco-landing-page-final .div7 {
   width: 266px;
   height: 80px;
   position: absolute;
   left: 587px;
   top: 2683px;
 }
-.div8 {
+.fresco-landing-page-final .div8 {
   width: 281px;
   height: 100px;
   position: absolute;
   left: 1004px;
   top: 2683px;
 }
-.div9 {
+.fresco-landing-page-final .div9 {
   width: 294px;
   height: 149px;
   position: absolute;
   left: 812px;
   top: 3116px;
 }
-.div10 {
+.fresco-landing-page-final .div10 {
   color: #072422;
   text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
@@ -338,28 +338,28 @@
   top: 0%;
   height: 100%;
 }
-.div11 {
+.fresco-landing-page-final .div11 {
   width: 473px;
   height: 115px;
   position: absolute;
   left: 907px;
   top: 2262px;
 }
-.div12 {
+.fresco-landing-page-final .div12 {
   width: 473px;
   height: 115px;
   position: absolute;
   left: 481px;
   top: 2256px;
 }
-.div13 {
+.fresco-landing-page-final .div13 {
   width: 473px;
   height: 115px;
   position: absolute;
   left: 654px;
   top: 3063px;
 }
-.div14 {
+.fresco-landing-page-final .div14 {
   color: #072422;
   text-align: center;
   font-family: "Montserrat-ExtraBold", sans-serif;
@@ -374,35 +374,35 @@
   top: 0%;
   height: 100%;
 }
-.div15 {
+.fresco-landing-page-final .div15 {
   width: 265px;
   height: 149px;
   position: absolute;
   left: 813px;
   top: 3354px;
 }
-.div16 {
+.fresco-landing-page-final .div16 {
   width: 473px;
   height: 115px;
   position: absolute;
   left: 633px;
   top: 3301px;
 }
-.div17 {
+.fresco-landing-page-final .div17 {
   width: 265px;
   height: 149px;
   position: absolute;
   left: 805px;
   top: 3599px;
 }
-._2-1-1 {
+.fresco-landing-page-final ._2-1-1 {
   width: 265px;
   height: 48px;
   position: absolute;
   left: 190px;
   top: 4118px;
 }
-._2-1-12 {
+.fresco-landing-page-final ._2-1-12 {
   color: #ffffff;
   text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
@@ -417,14 +417,14 @@
   top: 0%;
   height: 100%;
 }
-._08-00-20-00 {
+.fresco-landing-page-final ._08-00-20-00 {
   width: 265px;
   height: 48px;
   position: absolute;
   left: 576px;
   top: 4118px;
 }
-._08-00-20-002 {
+.fresco-landing-page-final ._08-00-20-002 {
   color: #ffffff;
   text-align: center;
   font-family: "Montserrat-Regular", sans-serif;
@@ -439,14 +439,14 @@
   top: 0%;
   height: 100%;
 }
-._359-896-806-283-office-fresco-bg-com {
+.fresco-landing-page-final ._359-896-806-283-office-fresco-bg-com {
   width: 265px;
   height: 120px;
   position: absolute;
   left: 945px;
   top: 4094px;
 }
-._359-896-806-283-office-fresco-bg-com2 {
+.fresco-landing-page-final ._359-896-806-283-office-fresco-bg-com2 {
   color: #ffffff;
   text-align: right;
   font-family: "Montserrat-Regular", sans-serif;
@@ -466,21 +466,21 @@
 ._359-896-806-283-office-fresco-bg-com-2-span2 {
   text-decoration: underline;
 }
-.div18 {
+.fresco-landing-page-final .div18 {
   width: 473px;
   height: 115px;
   position: absolute;
   left: 639px;
   top: 3546px;
 }
-.div19 {
+.fresco-landing-page-final .div19 {
   width: 473px;
   height: 22px;
   position: absolute;
   left: -4px;
   top: 4072px;
 }
-.div20 {
+.fresco-landing-page-final .div20 {
   color: #ffffff;
   text-align: center;
   font-family: "Montserrat-SemiBold", sans-serif;
@@ -495,28 +495,28 @@
   top: 0%;
   height: 100%;
 }
-.div21 {
+.fresco-landing-page-final .div21 {
   width: 473px;
   height: 22px;
   position: absolute;
   left: 483px;
   top: 4072px;
 }
-.div22 {
+.fresco-landing-page-final .div22 {
   width: 473px;
   height: 22px;
   position: absolute;
   left: 913px;
   top: 4072px;
 }
-.div23 {
+.fresco-landing-page-final .div23 {
   width: 352px;
   height: 78px;
   position: absolute;
   left: 838px;
   top: 1806px;
 }
-.div24 {
+.fresco-landing-page-final .div24 {
   width: 223px;
   height: 27px;
   position: absolute;
@@ -524,7 +524,7 @@
   translate: -50%;
   top: 878px;
 }
-.div25 {
+.fresco-landing-page-final .div25 {
   color: #072422;
   text-align: left;
   font-family: "Montserrat-SemiBold", sans-serif;
@@ -539,7 +539,7 @@
   top: 0%;
   height: 100%;
 }
-.partner-dhl {
+.fresco-landing-page-final .partner-dhl {
   width: 350px;
   height: 350px;
   position: absolute;
@@ -548,7 +548,7 @@
   overflow: visible;
   aspect-ratio: 1;
 }
-.partner-sofiamed {
+.fresco-landing-page-final .partner-sofiamed {
   width: 349px;
   height: 349px;
   position: absolute;
@@ -556,7 +556,7 @@
   top: 857px;
   aspect-ratio: 1;
 }
-.fresco-partner-7-1 {
+.fresco-landing-page-final .fresco-partner-7-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -566,7 +566,7 @@
   top: 0%;
   object-fit: cover;
 }
-.partner-buss-cent-vitosha {
+.fresco-landing-page-final .partner-buss-cent-vitosha {
   width: 349px;
   height: 349px;
   position: absolute;
@@ -574,7 +574,7 @@
   top: 857px;
   aspect-ratio: 1;
 }
-.fresco-partner-5-1 {
+.fresco-landing-page-final .fresco-partner-5-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -584,7 +584,7 @@
   top: 0%;
   object-fit: cover;
 }
-.partner-mondelez {
+.fresco-landing-page-final .partner-mondelez {
   width: 349px;
   height: 349px;
   position: absolute;
@@ -592,7 +592,7 @@
   top: 1031px;
   aspect-ratio: 1;
 }
-.fresco-partner-6-1 {
+.fresco-landing-page-final .fresco-partner-6-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -602,7 +602,7 @@
   top: 0%;
   object-fit: cover;
 }
-.partner-fantastiko {
+.fresco-landing-page-final .partner-fantastiko {
   width: 348px;
   height: 349px;
   position: absolute;
@@ -610,7 +610,7 @@
   top: 1032px;
   aspect-ratio: 348/349;
 }
-.fresco-partner-4-1 {
+.fresco-landing-page-final .fresco-partner-4-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -620,7 +620,7 @@
   top: 0%;
   object-fit: cover;
 }
-.partner-athletic {
+.fresco-landing-page-final .partner-athletic {
   width: 350px;
   height: 350px;
   position: absolute;
@@ -628,7 +628,7 @@
   top: 1048px;
   aspect-ratio: 1;
 }
-.fresco-partner-3-1 {
+.fresco-landing-page-final .fresco-partner-3-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -638,7 +638,7 @@
   top: 0%;
   object-fit: cover;
 }
-.partner-playground {
+.fresco-landing-page-final .partner-playground {
   width: 350px;
   height: 350px;
   position: absolute;
@@ -646,7 +646,7 @@
   top: 856px;
   aspect-ratio: 1;
 }
-.fresco-partner-2-1 {
+.fresco-landing-page-final .fresco-partner-2-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -656,7 +656,7 @@
   top: 0%;
   object-fit: cover;
 }
-.main-service-icon-deep-clean {
+.fresco-landing-page-final .main-service-icon-deep-clean {
   width: 317px;
   height: 317px;
   position: absolute;
@@ -664,7 +664,7 @@
   top: 1460px;
   aspect-ratio: 1;
 }
-.fresco-icon-2-1 {
+.fresco-landing-page-final .fresco-icon-2-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -674,7 +674,7 @@
   top: 0%;
   object-fit: cover;
 }
-.main-service-icon-subscribtion-clean {
+.fresco-landing-page-final .main-service-icon-subscribtion-clean {
   width: 404px;
   height: 404px;
   position: absolute;
@@ -682,7 +682,7 @@
   top: 1410px;
   aspect-ratio: 1;
 }
-.fresco-icon-1-1 {
+.fresco-landing-page-final .fresco-icon-1-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -692,7 +692,7 @@
   top: 0%;
   object-fit: cover;
 }
-.fresco-social-icon-instagram {
+.fresco-landing-page-final .fresco-social-icon-instagram {
   width: 63px;
   height: 63px;
   position: absolute;
@@ -700,7 +700,7 @@
   top: 4230px;
   aspect-ratio: 1;
 }
-.fresco-social-icon-instagram2 {
+.fresco-landing-page-final .fresco-social-icon-instagram2 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -710,7 +710,7 @@
   top: 0%;
   object-fit: cover;
 }
-.fresco-social-icon-facebook {
+.fresco-landing-page-final .fresco-social-icon-facebook {
   width: 63px;
   height: 63px;
   position: absolute;
@@ -718,7 +718,7 @@
   top: 4231px;
   aspect-ratio: 1;
 }
-.fresco-social-2-1 {
+.fresco-landing-page-final .fresco-social-2-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -728,14 +728,14 @@
   top: 0%;
   object-fit: cover;
 }
-._3rd-section-cta {
+.fresco-landing-page-final ._3rd-section-cta {
   width: 529px;
   height: 60px;
   position: absolute;
   left: 515px;
   top: 1943px;
 }
-.rectangle-30 {
+.fresco-landing-page-final .rectangle-30 {
   background: #91cea2;
   border-radius: 2025px;
   width: 100%;
@@ -747,7 +747,7 @@
   top: 0%;
   box-shadow: 0px 3px 20px 2px rgba(0, 0, 0, 0.3);
 }
-.div26 {
+.fresco-landing-page-final .div26 {
   color: #072422;
   text-align: left;
   font-family: "Montserrat-SemiBold", sans-serif;
@@ -762,7 +762,7 @@
   top: 26.67%;
   height: 48.33%;
 }
-.arrow-1 {
+.fresco-landing-page-final .arrow-1 {
   width: 3.25%;
   height: 0%;
   position: absolute;
@@ -773,7 +773,7 @@
   transform: translate(0px, -8.66px);
   overflow: visible;
 }
-.background-hero-image {
+.fresco-landing-page-final .background-hero-image {
   width: 1440px;
   height: 728px;
   position: absolute;
@@ -781,7 +781,7 @@
   top: 98px;
   aspect-ratio: 1440/728;
 }
-.gemini-generated-image-uajt-15-uajt-15-uajt-1 {
+.fresco-landing-page-final .gemini-generated-image-uajt-15-uajt-15-uajt-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -791,14 +791,14 @@
   top: 0%;
   object-fit: cover;
 }
-.background-image-overlay {
+.fresco-landing-page-final .background-image-overlay {
   width: 1440px;
   height: 728px;
   position: absolute;
   left: 0px;
   top: 98px;
 }
-.rectangle-19 {
+.fresco-landing-page-final .rectangle-19 {
   background: rgba(24, 81, 57, 0.3);
   width: 100%;
   height: 100%;
@@ -808,14 +808,14 @@
   bottom: 0%;
   top: 0%;
 }
-.gradient-overlay {
+.fresco-landing-page-final .gradient-overlay {
   width: 1069px;
   height: 728px;
   position: absolute;
   left: 0px;
   top: 98px;
 }
-.rectangle-24 {
+.fresco-landing-page-final .rectangle-24 {
   background: linear-gradient(
     90deg,
     rgba(24, 81, 57, 0.6) 55.7692289352417%,
@@ -829,7 +829,7 @@
   bottom: 0%;
   top: 0%;
 }
-.hero-image {
+.fresco-landing-page-final .hero-image {
   width: 724px;
   height: 811px;
   position: absolute;
@@ -837,7 +837,7 @@
   top: 14px;
   aspect-ratio: 724/811;
 }
-._54014137-519-e-4116-bd-83-5-ea-2-d-3-e-3-db-9-a-1 {
+.fresco-landing-page-final ._54014137-519-e-4116-bd-83-5-ea-2-d-3-e-3-db-9-a-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -847,14 +847,14 @@
   top: 0%;
   object-fit: cover;
 }
-.top-section-menu-logo {
+.fresco-landing-page-final .top-section-menu-logo {
   width: 1440px;
   height: 100px;
   position: absolute;
   left: 0px;
   top: 0px;
 }
-.rectangle-4 {
+.fresco-landing-page-final .rectangle-4 {
   background: #092422;
   width: 100%;
   height: 100%;
@@ -865,54 +865,16 @@
   top: 0%;
   box-shadow: 0px 5px 40px 10px rgba(0, 0, 0, 0.4);
 }
-._5th-section-cta {
-  width: 19.79%;
-  height: 60%;
-  position: absolute;
-  right: 3.54%;
-  left: 76.67%;
-  bottom: 20%;
-  top: 20%;
+.fresco-landing-page-final ._5th-section-cta-instance {
+  width: 19.79% !important;
+  height: 60% !important;
+  position: absolute !important;
+  right: 3.54% !important;
+  left: 76.67% !important;
+  bottom: 20% !important;
+  top: 20% !important;
 }
-.rectangle-34 {
-  background: #91cea2;
-  border-radius: 2025px;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  right: 0%;
-  left: 0%;
-  bottom: 0%;
-  top: 0%;
-  box-shadow: 0px 3px 20px 2px rgba(0, 0, 0, 0.3);
-}
-.div27 {
-  color: #072422;
-  text-align: left;
-  font-family: "Montserrat-SemiBold", sans-serif;
-  font-size: 24px;
-  letter-spacing: 0.1em;
-  font-weight: 600;
-  position: absolute;
-  right: 13.25%;
-  left: 14.5%;
-  width: 72.25%;
-  bottom: 23.33%;
-  top: 28.33%;
-  height: 48.33%;
-}
-.arrow-2 {
-  width: 3.25%;
-  height: 0%;
-  position: absolute;
-  right: 8.75%;
-  left: 88%;
-  bottom: 48.33%;
-  top: 51.67%;
-  transform: translate(-5.74px, -8.66px);
-  overflow: visible;
-}
-.fresko-logo-transparent-header {
+.fresco-landing-page-final .fresko-logo-transparent-header {
   width: 286px;
   height: 286px;
   position: absolute;
@@ -920,7 +882,7 @@
   top: -85px;
   aspect-ratio: 1;
 }
-.fresko-logo-transparent-1 {
+.fresco-landing-page-final .fresko-logo-transparent-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -930,14 +892,14 @@
   top: 0%;
   object-fit: cover;
 }
-.header {
+.fresco-landing-page-final .header {
   width: 659px;
   height: 85px;
   position: absolute;
   left: 116px;
   top: 213px;
 }
-.div28 {
+.fresco-landing-page-final .div27 {
   color: #f6fcf2;
   text-align: left;
   font-family: "Montserrat-Bold", sans-serif;
@@ -952,14 +914,14 @@
   top: 0%;
   height: 100%;
 }
-.subheader {
+.fresco-landing-page-final .subheader {
   width: 607px;
   height: 176px;
   position: absolute;
   left: 120px;
   top: 332px;
 }
-.fresco3 {
+.fresco-landing-page-final .fresco3 {
   color: #f6fcf2;
   text-align: left;
   font-family: "-", sans-serif;
@@ -982,14 +944,14 @@
   font-family: "Montserrat-Medium", sans-serif;
   font-weight: 500;
 }
-._18 {
+.fresco-landing-page-final ._18 {
   width: 340px;
   height: 44px;
   position: absolute;
   left: 135px;
   top: 683px;
 }
-._182 {
+.fresco-landing-page-final ._182 {
   color: #f6fcf2;
   text-align: left;
   font-family: "Montserrat-SemiBoldItalic", sans-serif;
@@ -1005,14 +967,14 @@
   top: 0%;
   height: 100%;
 }
-.cta-1-hero-section {
+.fresco-landing-page-final .cta-1-hero-section {
   width: 621px;
   height: 60px;
   position: absolute;
   left: 119px;
   top: 525px;
 }
-.rectangle-7 {
+.fresco-landing-page-final .rectangle-7 {
   background: #91cea2;
   border-radius: 2025px;
   width: 100%;
@@ -1024,7 +986,7 @@
   top: 0%;
   box-shadow: 0px 3px 30px 3px rgba(0, 0, 0, 0.4);
 }
-.div29 {
+.fresco-landing-page-final .div28 {
   color: #072422;
   text-align: left;
   font-family: "Montserrat-SemiBold", sans-serif;
@@ -1039,7 +1001,7 @@
   top: 25%;
   height: 48.33%;
 }
-.arrow-3 {
+.fresco-landing-page-final .arrow-3 {
   width: 2.09%;
   height: 0%;
   position: absolute;
@@ -1050,7 +1012,7 @@
   transform: translate(-2px, -8.66px);
   overflow: visible;
 }
-._5th-section-cta2 {
+.fresco-landing-page-final ._5th-section-cta {
   width: 285px;
   height: 60px;
   position: absolute;
@@ -1058,7 +1020,34 @@
   translate: -50%;
   top: 3821px;
 }
-.arrow-22 {
+.fresco-landing-page-final .rectangle-34 {
+  background: #91cea2;
+  border-radius: 2025px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  box-shadow: 0px 3px 20px 2px rgba(0, 0, 0, 0.3);
+}
+.fresco-landing-page-final .div29 {
+  color: #072422;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  position: absolute;
+  right: 13.25%;
+  left: 14.5%;
+  width: 72.25%;
+  bottom: 23.33%;
+  top: 28.33%;
+  height: 48.33%;
+}
+.fresco-landing-page-final .arrow-2 {
   width: 3.25%;
   height: 0%;
   position: absolute;
@@ -1069,7 +1058,7 @@
   transform: translate(-5.74px, -8.66px);
   overflow: visible;
 }
-._4th-section-img-3 {
+.fresco-landing-page-final ._4th-section-img-3 {
   width: 262px;
   height: 266px;
   position: absolute;
@@ -1077,7 +1066,7 @@
   top: 2350px;
   aspect-ratio: 262/266;
 }
-.gemini-generated-image-9-rrhgs-9-rrhgs-9-rrh-1 {
+.fresco-landing-page-final .gemini-generated-image-9-rrhgs-9-rrhgs-9-rrh-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -1087,7 +1076,7 @@
   top: 0%;
   object-fit: cover;
 }
-._4th-section-img-1 {
+.fresco-landing-page-final ._4th-section-img-1 {
   width: 265px;
   height: 266px;
   position: absolute;
@@ -1095,7 +1084,7 @@
   top: 2350px;
   aspect-ratio: 265/266;
 }
-.gemini-generated-image-oaa-2-rroaa-2-rroaa-2-1 {
+.fresco-landing-page-final .gemini-generated-image-oaa-2-rroaa-2-rroaa-2-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -1105,7 +1094,7 @@
   top: 0%;
   object-fit: cover;
 }
-._4th-section-img-2 {
+.fresco-landing-page-final ._4th-section-img-2 {
   width: 266px;
   height: 266px;
   position: absolute;
@@ -1113,7 +1102,7 @@
   top: 2350px;
   aspect-ratio: 1;
 }
-.gemini-generated-image-tkv-0-b-6-tkv-0-b-6-tkv-0-1 {
+.fresco-landing-page-final .gemini-generated-image-tkv-0-b-6-tkv-0-b-6-tkv-0-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -1123,14 +1112,14 @@
   top: 0%;
   object-fit: cover;
 }
-._5th-section-icon-bg-1 {
+.fresco-landing-page-final ._5th-section-icon-bg-1 {
   width: 161px;
   height: 161px;
   position: absolute;
   left: 400px;
   top: 3049px;
 }
-.ellipse-1 {
+.fresco-landing-page-final .ellipse-1 {
   background: #072422;
   border-radius: 50%;
   width: 100%;
@@ -1141,14 +1130,14 @@
   bottom: 0%;
   top: 0%;
 }
-._5th-section-icon-bg-2 {
+.fresco-landing-page-final ._5th-section-icon-bg-2 {
   width: 161px;
   height: 160px;
   position: absolute;
   left: 400px;
   top: 3285px;
 }
-.ellipse-2 {
+.fresco-landing-page-final .ellipse-2 {
   background: #072422;
   border-radius: 50%;
   width: 100%;
@@ -1159,14 +1148,14 @@
   bottom: 0%;
   top: 0%;
 }
-._5th-section-icon-bg-3 {
+.fresco-landing-page-final ._5th-section-icon-bg-3 {
   width: 161px;
   height: 161px;
   position: absolute;
   left: 400px;
   top: 3520px;
 }
-.ellipse-3 {
+.fresco-landing-page-final .ellipse-3 {
   background: #072422;
   border-radius: 50%;
   width: 100%;
@@ -1177,7 +1166,7 @@
   bottom: 0%;
   top: 0%;
 }
-._5th-section-document-icon {
+.fresco-landing-page-final ._5th-section-document-icon {
   width: 145.62px;
   height: 139px;
   position: absolute;
@@ -1185,7 +1174,7 @@
   top: 3530px;
   aspect-ratio: 145.62/139;
 }
-.document-fresco-1 {
+.fresco-landing-page-final .document-fresco-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -1195,7 +1184,7 @@
   top: 0%;
   object-fit: cover;
 }
-._5th-section-house-icon {
+.fresco-landing-page-final ._5th-section-house-icon {
   width: 128px;
   height: 122px;
   position: absolute;
@@ -1203,7 +1192,7 @@
   top: 3301px;
   aspect-ratio: 128/122;
 }
-.house-fresco-1 {
+.fresco-landing-page-final .house-fresco-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -1213,7 +1202,7 @@
   top: 0%;
   object-fit: cover;
 }
-._5th-section-phone-icon {
+.fresco-landing-page-final ._5th-section-phone-icon {
   width: 128px;
   height: 122px;
   position: absolute;
@@ -1221,7 +1210,7 @@
   top: 3069px;
   aspect-ratio: 128/122;
 }
-.phone-fresco-1 {
+.fresco-landing-page-final .phone-fresco-1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -1231,7 +1220,7 @@
   top: 0%;
   object-fit: cover;
 }
-.arrow-12 {
+.fresco-landing-page-final .arrow-12 {
   width: 132px;
   height: 257px;
   position: absolute;
@@ -1239,7 +1228,7 @@
   top: 3122px;
   overflow: visible;
 }
-.arrow-23 {
+.fresco-landing-page-final .arrow-22 {
   width: 133px;
   height: 258px;
   position: absolute;
