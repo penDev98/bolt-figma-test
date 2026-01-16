@@ -7,6 +7,7 @@
   height: 4328px;
   position: relative;
   overflow: hidden;
+  max-width: 100%;
 }
 .fresco-landing-page-final ._4th-section-background-gradient {
   width: 1440px;
@@ -1235,4 +1236,834 @@
   left: 229px;
   top: 3368px;
   overflow: visible;
+}
+
+/* ============================================
+   RESPONSIVE MEDIA QUERIES
+   Mobile-First Approach
+   ============================================ */
+
+/* Mobile Devices (320px - 767px) */
+@media screen and (max-width: 767px) {
+  .fresco-landing-page-final {
+    height: auto;
+    min-height: 100vh;
+  }
+
+  /* Hero Section */
+  .fresco-landing-page-final .top-section-menu-logo {
+    width: 100%;
+    height: 80px;
+  }
+
+  .fresco-landing-page-final .fresko-logo-transparent-header {
+    width: 150px;
+    height: 150px;
+    left: 10px;
+    top: -35px;
+  }
+
+  .fresco-landing-page-final ._5th-section-cta-instance {
+    width: 180px !important;
+    height: 45px !important;
+    right: 10px !important;
+    left: auto !important;
+    top: 50% !important;
+    transform: translateY(-50%);
+  }
+
+  .fresco-landing-page-final .fiveth-section-cta .div {
+    font-size: 16px;
+  }
+
+  .fresco-landing-page-final .background-hero-image {
+    width: 100%;
+    height: 400px;
+    top: 80px;
+  }
+
+  .fresco-landing-page-final .background-image-overlay {
+    width: 100%;
+    height: 400px;
+    top: 80px;
+  }
+
+  .fresco-landing-page-final .gradient-overlay {
+    width: 100%;
+    height: 400px;
+    top: 80px;
+  }
+
+  .fresco-landing-page-final .hero-image {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    left: 0;
+    top: 80px;
+    object-fit: contain;
+  }
+
+  .fresco-landing-page-final .header {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    top: 120px;
+  }
+
+  .fresco-landing-page-final .div27 {
+    font-size: 36px;
+    line-height: 1.2;
+  }
+
+  .fresco-landing-page-final .subheader {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    top: 200px;
+  }
+
+  .fresco-landing-page-final .fresco3 {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+
+  .fresco-landing-page-final .cta-1-hero-section {
+    width: 90%;
+    height: 55px;
+    left: 5%;
+    top: 350px;
+  }
+
+  .fresco-landing-page-final .div28 {
+    font-size: 18px;
+  }
+
+  .fresco-landing-page-final ._18 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    top: 420px;
+  }
+
+  .fresco-landing-page-final ._182 {
+    font-size: 24px;
+  }
+
+  /* Partners Section */
+  .fresco-landing-page-final ._2nd-section-background {
+    width: 100%;
+    height: auto;
+    min-height: 800px;
+    top: 500px;
+  }
+
+  .fresco-landing-page-final .div24 {
+    width: 90%;
+    left: 5%;
+    top: 520px;
+  }
+
+  .fresco-landing-page-final .div25 {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .fresco-landing-page-final .partner-dhl,
+  .fresco-landing-page-final .partner-sofiamed,
+  .fresco-landing-page-final .partner-buss-cent-vitosha,
+  .fresco-landing-page-final .partner-mondelez,
+  .fresco-landing-page-final .partner-fantastiko,
+  .fresco-landing-page-final .partner-athletic,
+  .fresco-landing-page-final .partner-playground {
+    width: 150px;
+    height: 150px;
+  }
+
+  .fresco-landing-page-final .partner-dhl {
+    left: 10px;
+    top: 570px;
+  }
+
+  .fresco-landing-page-final .partner-sofiamed {
+    left: 50%;
+    transform: translateX(-50%);
+    top: 570px;
+  }
+
+  .fresco-landing-page-final .partner-playground {
+    right: 10px;
+    left: auto;
+    top: 570px;
+  }
+
+  .fresco-landing-page-final .partner-buss-cent-vitosha {
+    left: 10px;
+    top: 740px;
+  }
+
+  .fresco-landing-page-final .partner-mondelez {
+    left: 50%;
+    transform: translateX(-50%);
+    top: 740px;
+  }
+
+  .fresco-landing-page-final .partner-fantastiko {
+    right: 10px;
+    left: auto;
+    top: 740px;
+  }
+
+  .fresco-landing-page-final .partner-athletic {
+    left: 50%;
+    transform: translateX(-50%);
+    top: 910px;
+  }
+
+  /* Services Section */
+  .fresco-landing-page-final ._3rd-section-tob-backround {
+    width: 100%;
+    height: auto;
+    min-height: 650px;
+    top: 1330px;
+  }
+
+  .fresco-landing-page-final .div,
+  .fresco-landing-page-final .div23 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+  }
+
+  .fresco-landing-page-final .div {
+    top: 1350px;
+  }
+
+  .fresco-landing-page-final .div23 {
+    top: 1620px;
+  }
+
+  .fresco-landing-page-final .div2 {
+    font-size: 24px;
+  }
+
+  .fresco-landing-page-final .main-service-icon-deep-clean {
+    width: 200px;
+    height: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 1430px;
+  }
+
+  .fresco-landing-page-final .main-service-icon-subscribtion-clean {
+    width: 250px;
+    height: 250px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 1680px;
+  }
+
+  .fresco-landing-page-final ._3rd-section-button-1,
+  .fresco-landing-page-final ._3rd-section-button-2 {
+    width: 90%;
+    height: 200px;
+    left: 5%;
+  }
+
+  .fresco-landing-page-final ._3rd-section-button-1 {
+    top: 1430px;
+  }
+
+  .fresco-landing-page-final ._3rd-section-button-2 {
+    top: 1680px;
+  }
+
+  .fresco-landing-page-final ._3rd-section-cta {
+    width: 90%;
+    height: 55px;
+    left: 5%;
+    top: 1940px;
+  }
+
+  .fresco-landing-page-final .div26 {
+    font-size: 18px;
+  }
+
+  /* 4th Section - Why Choose FRESCO */
+  .fresco-landing-page-final ._4th-section-background-gradient {
+    width: 100%;
+    height: auto;
+    min-height: 900px;
+    top: 2050px;
+  }
+
+  .fresco-landing-page-final ._4th-section-header {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    top: 2080px;
+  }
+
+  .fresco-landing-page-final .fresco {
+    font-size: 26px;
+    text-align: center;
+  }
+
+  .fresco-landing-page-final .div3,
+  .fresco-landing-page-final .div12,
+  .fresco-landing-page-final .div11 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+  }
+
+  .fresco-landing-page-final .div3 {
+    top: 2140px;
+  }
+
+  .fresco-landing-page-final .div12 {
+    top: 2380px;
+  }
+
+  .fresco-landing-page-final .div11 {
+    top: 2620px;
+  }
+
+  .fresco-landing-page-final .div4 {
+    font-size: 18px;
+  }
+
+  .fresco-landing-page-final ._4th-section-image-bg-1,
+  .fresco-landing-page-final ._4th-section-image-bg-2,
+  .fresco-landing-page-final ._4th-section-image-bg-3 {
+    width: 220px;
+    height: 220px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .fresco-landing-page-final ._4th-section-img-1,
+  .fresco-landing-page-final ._4th-section-img-2,
+  .fresco-landing-page-final ._4th-section-img-3 {
+    width: 200px;
+    height: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .fresco-landing-page-final ._4th-section-image-bg-1,
+  .fresco-landing-page-final ._4th-section-img-1 {
+    top: 2200px;
+  }
+
+  .fresco-landing-page-final ._4th-section-image-bg-2,
+  .fresco-landing-page-final ._4th-section-img-2 {
+    top: 2440px;
+  }
+
+  .fresco-landing-page-final ._4th-section-image-bg-3,
+  .fresco-landing-page-final ._4th-section-img-3 {
+    top: 2680px;
+  }
+
+  .fresco-landing-page-final .div5,
+  .fresco-landing-page-final .div7,
+  .fresco-landing-page-final .div8 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+  }
+
+  .fresco-landing-page-final .div5 {
+    top: 2430px;
+  }
+
+  .fresco-landing-page-final .div7 {
+    top: 2670px;
+  }
+
+  .fresco-landing-page-final .div8 {
+    top: 2910px;
+  }
+
+  .fresco-landing-page-final .div6 {
+    font-size: 14px;
+  }
+
+  /* 5th Section - Process */
+  .fresco-landing-page-final ._5th-section-header {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    top: 3050px;
+  }
+
+  .fresco-landing-page-final .fresco2 {
+    font-size: 26px;
+    text-align: center;
+  }
+
+  .fresco-landing-page-final ._5th-section-icon-bg-1,
+  .fresco-landing-page-final ._5th-section-icon-bg-2,
+  .fresco-landing-page-final ._5th-section-icon-bg-3 {
+    width: 120px;
+    height: 120px;
+    left: 5%;
+  }
+
+  .fresco-landing-page-final ._5th-section-phone-icon,
+  .fresco-landing-page-final ._5th-section-house-icon,
+  .fresco-landing-page-final ._5th-section-document-icon {
+    width: 90px;
+    height: 85px;
+    left: 20px;
+  }
+
+  .fresco-landing-page-final ._5th-section-icon-bg-1 {
+    top: 3120px;
+  }
+
+  .fresco-landing-page-final ._5th-section-phone-icon {
+    top: 3137px;
+  }
+
+  .fresco-landing-page-final .div13 {
+    width: 70%;
+    height: auto;
+    left: 135px;
+    top: 3135px;
+  }
+
+  .fresco-landing-page-final .div14 {
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .fresco-landing-page-final .div9 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    top: 3180px;
+  }
+
+  .fresco-landing-page-final .div10 {
+    font-size: 14px;
+  }
+
+  .fresco-landing-page-final ._5th-section-icon-bg-2 {
+    top: 3290px;
+  }
+
+  .fresco-landing-page-final ._5th-section-house-icon {
+    top: 3307px;
+  }
+
+  .fresco-landing-page-final .div16 {
+    width: 70%;
+    height: auto;
+    left: 135px;
+    top: 3305px;
+  }
+
+  .fresco-landing-page-final .div15 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    top: 3350px;
+  }
+
+  .fresco-landing-page-final ._5th-section-icon-bg-3 {
+    top: 3460px;
+  }
+
+  .fresco-landing-page-final ._5th-section-document-icon {
+    top: 3477px;
+  }
+
+  .fresco-landing-page-final .div18 {
+    width: 70%;
+    height: auto;
+    left: 135px;
+    top: 3475px;
+  }
+
+  .fresco-landing-page-final .div17 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    top: 3520px;
+  }
+
+  .fresco-landing-page-final .arrow-12,
+  .fresco-landing-page-final .arrow-22 {
+    display: none;
+  }
+
+  .fresco-landing-page-final ._5th-section-cta {
+    width: 90%;
+    height: 55px;
+    left: 5%;
+    top: 3630px;
+  }
+
+  .fresco-landing-page-final .div29 {
+    font-size: 18px;
+  }
+
+  /* Footer */
+  .fresco-landing-page-final .footer-section {
+    width: 100%;
+    height: auto;
+    min-height: 400px;
+    top: 3730px;
+  }
+
+  .fresco-landing-page-final .fresko-logo-transparent-footer {
+    width: 100px;
+    height: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 3760px;
+  }
+
+  .fresco-landing-page-final .div19,
+  .fresco-landing-page-final .div21,
+  .fresco-landing-page-final .div22 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+  }
+
+  .fresco-landing-page-final .div19 {
+    top: 3880px;
+  }
+
+  .fresco-landing-page-final .div21 {
+    top: 3990px;
+  }
+
+  .fresco-landing-page-final .div22 {
+    top: 4100px;
+  }
+
+  .fresco-landing-page-final .div20 {
+    font-size: 16px;
+  }
+
+  .fresco-landing-page-final ._2-1-1 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    top: 3920px;
+  }
+
+  .fresco-landing-page-final ._2-1-12 {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .fresco-landing-page-final ._08-00-20-00 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    top: 4030px;
+  }
+
+  .fresco-landing-page-final ._08-00-20-002 {
+    font-size: 14px;
+  }
+
+  .fresco-landing-page-final ._359-896-806-283-office-fresco-bg-com {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    top: 4140px;
+  }
+
+  .fresco-landing-page-final ._359-896-806-283-office-fresco-bg-com2 {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .fresco-landing-page-final .fresco-social-icon-facebook,
+  .fresco-landing-page-final .fresco-social-icon-instagram {
+    width: 50px;
+    height: 50px;
+    top: 4240px;
+  }
+
+  .fresco-landing-page-final .fresco-social-icon-facebook {
+    left: 35%;
+  }
+
+  .fresco-landing-page-final .fresco-social-icon-instagram {
+    left: 55%;
+  }
+}
+
+/* Tablet Devices (768px - 1023px) */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .fresco-landing-page-final {
+    height: auto;
+    min-height: 100vh;
+  }
+
+  /* Scale factors for tablet */
+  .fresco-landing-page-final .top-section-menu-logo {
+    width: 100%;
+  }
+
+  .fresco-landing-page-final .fresko-logo-transparent-header {
+    width: 200px;
+    height: 200px;
+    left: 15px;
+  }
+
+  .fresco-landing-page-final .background-hero-image,
+  .fresco-landing-page-final .background-image-overlay,
+  .fresco-landing-page-final .gradient-overlay {
+    width: 100%;
+  }
+
+  .fresco-landing-page-final .hero-image {
+    width: 50%;
+    left: 50%;
+  }
+
+  .fresco-landing-page-final .header {
+    width: 45%;
+    left: 5%;
+  }
+
+  .fresco-landing-page-final .div27 {
+    font-size: 50px;
+  }
+
+  .fresco-landing-page-final .subheader {
+    width: 45%;
+    left: 5%;
+  }
+
+  .fresco-landing-page-final .fresco3 {
+    font-size: 28px;
+  }
+
+  .fresco-landing-page-final .cta-1-hero-section {
+    width: 45%;
+    left: 5%;
+  }
+
+  .fresco-landing-page-final ._18 {
+    width: 45%;
+    left: 5%;
+  }
+
+  .fresco-landing-page-final ._2nd-section-background {
+    width: 100%;
+  }
+
+  .fresco-landing-page-final .partner-dhl,
+  .fresco-landing-page-final .partner-sofiamed,
+  .fresco-landing-page-final .partner-buss-cent-vitosha,
+  .fresco-landing-page-final .partner-mondelez,
+  .fresco-landing-page-final .partner-fantastiko,
+  .fresco-landing-page-final .partner-athletic,
+  .fresco-landing-page-final .partner-playground {
+    width: 220px;
+    height: 220px;
+  }
+
+  .fresco-landing-page-final .partner-dhl {
+    left: 5%;
+  }
+
+  .fresco-landing-page-final .partner-sofiamed {
+    left: 28%;
+  }
+
+  .fresco-landing-page-final .partner-buss-cent-vitosha {
+    left: 51%;
+  }
+
+  .fresco-landing-page-final .partner-playground {
+    left: 74%;
+  }
+
+  .fresco-landing-page-final .partner-mondelez {
+    left: 12%;
+  }
+
+  .fresco-landing-page-final .partner-fantastiko {
+    left: 40%;
+  }
+
+  .fresco-landing-page-final .partner-athletic {
+    left: 68%;
+  }
+
+  .fresco-landing-page-final ._3rd-section-tob-backround {
+    width: 100%;
+  }
+
+  .fresco-landing-page-final ._3rd-section-button-1 {
+    width: 42%;
+    left: 5%;
+  }
+
+  .fresco-landing-page-final ._3rd-section-button-2 {
+    width: 42%;
+    left: 53%;
+  }
+
+  .fresco-landing-page-final ._4th-section-background-gradient {
+    width: 100%;
+  }
+
+  .fresco-landing-page-final ._4th-section-image-bg-1 {
+    left: 10%;
+  }
+
+  .fresco-landing-page-final ._4th-section-img-1 {
+    left: 10.7%;
+  }
+
+  .fresco-landing-page-final ._4th-section-image-bg-2 {
+    left: 39%;
+  }
+
+  .fresco-landing-page-final ._4th-section-img-2 {
+    left: 39.7%;
+  }
+
+  .fresco-landing-page-final ._4th-section-image-bg-3 {
+    left: 68%;
+  }
+
+  .fresco-landing-page-final ._4th-section-img-3 {
+    left: 68.7%;
+  }
+
+  .fresco-landing-page-final .div3 {
+    left: 5%;
+  }
+
+  .fresco-landing-page-final .div12 {
+    left: 31%;
+  }
+
+  .fresco-landing-page-final .div11 {
+    left: 60%;
+  }
+
+  .fresco-landing-page-final .div5 {
+    left: 10%;
+  }
+
+  .fresco-landing-page-final .div7 {
+    left: 39%;
+  }
+
+  .fresco-landing-page-final .div8 {
+    left: 68%;
+  }
+
+  .fresco-landing-page-final .footer-section {
+    width: 100%;
+  }
+
+  .fresco-landing-page-final .div19 {
+    left: 5%;
+  }
+
+  .fresco-landing-page-final .div21 {
+    left: 35%;
+  }
+
+  .fresco-landing-page-final .div22 {
+    left: 65%;
+  }
+
+  .fresco-landing-page-final ._2-1-1 {
+    left: 10%;
+  }
+
+  .fresco-landing-page-final ._08-00-20-00 {
+    left: 40%;
+  }
+
+  .fresco-landing-page-final ._359-896-806-283-office-fresco-bg-com {
+    left: 68%;
+  }
+}
+
+/* Small Desktop (1024px - 1199px) */
+@media screen and (min-width: 1024px) and (max-width: 1199px) {
+  .fresco-landing-page-final ._4th-section-background-gradient,
+  .fresco-landing-page-final ._2nd-section-background,
+  .fresco-landing-page-final ._3rd-section-tob-backround,
+  .fresco-landing-page-final .footer-section,
+  .fresco-landing-page-final .top-section-menu-logo,
+  .fresco-landing-page-final .background-hero-image,
+  .fresco-landing-page-final .background-image-overlay {
+    width: 100%;
+  }
+
+  .fresco-landing-page-final .hero-image {
+    left: 55%;
+  }
+}
+
+/* Large Desktop (1200px and above) */
+@media screen and (min-width: 1200px) {
+  .fresco-landing-page-final {
+    margin: 0 auto;
+  }
+
+  .fresco-landing-page-final ._4th-section-background-gradient,
+  .fresco-landing-page-final ._2nd-section-background,
+  .fresco-landing-page-final ._3rd-section-tob-backround,
+  .fresco-landing-page-final .footer-section,
+  .fresco-landing-page-final .top-section-menu-logo,
+  .fresco-landing-page-final .background-hero-image,
+  .fresco-landing-page-final .background-image-overlay,
+  .fresco-landing-page-final .gradient-overlay {
+    width: 100%;
+    max-width: 1440px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
+/* Orientation specific adjustments */
+@media screen and (max-width: 767px) and (orientation: landscape) {
+  .fresco-landing-page-final .header {
+    top: 100px;
+  }
+
+  .fresco-landing-page-final .div27 {
+    font-size: 32px;
+  }
+
+  .fresco-landing-page-final .subheader {
+    top: 160px;
+  }
+
+  .fresco-landing-page-final .fresco3 {
+    font-size: 18px;
+  }
+
+  .fresco-landing-page-final .background-hero-image,
+  .fresco-landing-page-final .background-image-overlay,
+  .fresco-landing-page-final .gradient-overlay {
+    height: 350px;
+  }
+}
+
+/* Touch device optimizations */
+@media (hover: none) and (pointer: coarse) {
+  .fresco-landing-page-final .cta-1-hero-section,
+  .fresco-landing-page-final ._3rd-section-cta,
+  .fresco-landing-page-final ._5th-section-cta,
+  .fresco-landing-page-final .fiveth-section-cta {
+    min-height: 48px;
+  }
 }
